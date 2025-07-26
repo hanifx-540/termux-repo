@@ -1,0 +1,12 @@
+Package: hanifx
+Architecture: all
+Version: 1.0
+Maintainer: Hanif <sajim4653@gmail.com>
+Filename: debs/hanifx.deb
+Size: 1080
+MD5sum: c6569fbcc58c9b28b33bc4547bc659c6
+SHA1: 0c1965891233d6ea363f5d5fd6ed011b29c22a6c
+SHA256: c3b5437f086a8ab3f02fb84aa304487de0d8ee75d489ec7d37fe85e5d461eac4
+SHA512: ff0dd17b76313474318556226db28f48b39bdf29adf5fba57a31bee2b2742f4a7f0a8f07dac8b15ac8748a3680e74465a4c3e097f8fcb528c390c587d9637313
+Description: Show IP info in Termux
+
